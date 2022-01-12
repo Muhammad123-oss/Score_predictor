@@ -1,0 +1,15 @@
+﻿  project.cpp
+C:\Users\HP\Desktop\project\project\project.cpp(118,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\Desktop\project\project\project.cpp(119,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\project\project\project.cpp(123,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\project\project\project.cpp(188,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\project\project\project.cpp(196,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\project\project\project.cpp(246,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\project\project\project.cpp(275,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\project\project\project.cpp(520,47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\Desktop\project\project\project.cpp(691,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\project\project\project.cpp(692,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\project\project\project.cpp(696,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\Desktop\project\project\project.cpp(615): warning C4715: 'tree::win': not all control paths return a value
+C:\Users\HP\Desktop\project\project\project.cpp(629): warning C4715: 'tree::lost': not all control paths return a value
+  project.vcxproj -> C:\Users\HP\Desktop\project\Debug\project.exe
